@@ -8,7 +8,7 @@
     "start": "node app.js",
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "seed": "node seeds/seedGlobalGames.js"
+    "seed": "node src/seeds/seedGlobalGames.js"
   },
   "keywords": [
     "gametracker",
