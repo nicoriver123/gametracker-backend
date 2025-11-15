@@ -1,4 +1,4 @@
-// controllers/contactController.js
+
 import { sendContactEmail as sendMail } from "../services/emailService.js";
 
 export const handleContactForm = async (req, res) => {

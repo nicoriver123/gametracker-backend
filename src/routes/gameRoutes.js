@@ -1,4 +1,4 @@
-// routes/gameRoutes.js
+
 import express from "express";
 import {
   getGames,

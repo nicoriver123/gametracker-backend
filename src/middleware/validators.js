@@ -1,4 +1,3 @@
-// Validaciones personalizadas para mayor seguridad
 
 export const validateEmail = (email) => {
   const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
